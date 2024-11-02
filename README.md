@@ -39,36 +39,36 @@ CAT5 cable between the controller and the board because this can all be done wit
 
 
 Cost of goods in 2024:
-1/4"x2"  6' 6061 aluminum bar  $22
-1/8"x4"  6' 6061 aluminum plate  $22
-1x6 wood base 6' (finish pine or another wood that is reliably straight and flat)
-Arduino Uno r3 or Mini $15 to $3.  We want one with a 5v regulator so we can power it with batteries
-2x 18650 batteries  $4 or $0 from a friend or you scrap them from other stuff like an e-scooter
-2x 18650 battery holder  $3  can use two singles or a double holder.  Connect the cells in series for 7v to 8v
-3d printer - ask a friend or go to the library.  The nicer the printer, the better it will look.
-14 segment 4 character i2c backpack display with decimals.  These come in various colors, $12 for two.
-2x 940nm Infrared LED emitters  
-2x 940nm Infrared detectors  $7 for a pack of 30, 15 emitters, 15 detectors.
-2x 100 ohm resistors  (cheap, ask a friend)
-Rocker switch for power $1
-Momentary push button for reset $1
-Misc hookup wire or CAT5 stranded wire.  $0
+   1/4"x2"  6' 6061 aluminum bar  $22
+   1/8"x4"  6' 6061 aluminum plate  $22
+   1x6 wood base 6' (finish pine or another wood that is reliably straight and flat)
+   Arduino Uno r3 or Mini $15 to $3.  We want one with a 5v regulator so we can power it with batteries
+   2x 18650 batteries  $4 or $0 from a friend or you scrap them from other stuff like an e-scooter
+   2x 18650 battery holder  $3  can use two singles or a double holder.  Connect the cells in series for 7v to 8v
+   3d printer - ask a friend or go to the library.  The nicer the printer, the better it will look.
+   14 segment 4 character i2c backpack display with decimals.  These come in various colors, $12 for two.
+   2x 940nm Infrared LED emitters  
+   2x 940nm Infrared detectors  $7 for a pack of 30, 15 emitters, 15 detectors.
+   2x 100 ohm resistors  (cheap, ask a friend)
+   Rocker switch for power $1
+   Momentary push button for reset $1
+   Misc hookup wire or CAT5 stranded wire.  $0
 
 
 Other things you might need or want to make this.
-Soldering iron and solder
-Small hand tools
-Shrink wrap
-18650 battery charger
-Hobby battery charger if you go with LiPo packs
-Arduino IDE programming environment
-USB Mini cable for Arduino Mini
-USB huge cable for Uno
-Dupont crimper and connectors (or solder directly to the board)
-Pin headers for the arduino (or solder directly to the board)
-Woodworking tools and wood finishes
-Some metalworking tools to fabricate the track surface
-Self tapping screws OR brass threaded inserts that press into plastic with heat
+   Soldering iron and solder
+   Small hand tools
+   Shrink wrap
+   18650 battery charger
+   Hobby battery charger if you go with LiPo packs
+   Arduino IDE programming environment
+   USB Mini cable for Arduino Mini
+   USB huge cable for Uno
+   Dupont crimper and connectors (or solder directly to the board)
+   Pin headers for the arduino (or solder directly to the board)
+   Woodworking tools and wood finishes
+   Some metalworking tools to fabricate the track surface
+   Self tapping screws OR brass threaded inserts that press into plastic with heat
 
 
 September 2024 - first code development on UNO
