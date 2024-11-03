@@ -1,4 +1,4 @@
-# GPX-test-track
+## GPX-test-track
 Grand Prix / Pinewood test track timer
 
 
@@ -14,6 +14,7 @@ Trimming the injection molding tabs from the tires and polishing the axles or pr
 advantages that contribute to faster track times, or builders can tune for the turtle award. (slowest)  
 See the Mark Rober video from April 6, 2014 titled "EASY Pinewood Derby Car WINS using Science!!!" 
 https://www.youtube.com/watch?v=-RjJtO51ykY
+
 7 Key Steps:
 1.  Max weight ~1" in front of rear axle
 2.  Reasonably aerodynamic
