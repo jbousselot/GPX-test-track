@@ -31,7 +31,6 @@ scrolling(); // the power on welcome message
 delay(1000);
 ledprint("0.000"); // all zeroes
 running = 1; // set the run state
-digitalWrite(restartPin, LOW);
 }
 
 void loop() { // 940nm IR LED.  Matching detector will report LOW when saturated with IR light because 10k pullup resistor attached to +5v
