@@ -30,16 +30,16 @@ For the low low price of $how_much_I_paid, you can provide a test segment easily
 The timer is to help builders reference what impact their changes make on car performance.  Adding LED to any project obviously makes it better.
 
 
-Use an Atmega chip to count seconds between the starting pin and end pin. Uno or Mini,  Maybe Tiny85 for production.
-9.999 is a failed attempt on the test track as well as race day.
-IR detectors and emitters at the start and end will trigger the timer.  
-Display the time after complete.
-The timer will reset via the chip reset pin and an external button.
-18650 batteries iside an external box for the controller.
-CAT5 cable between the controller and the board because this can all be done with 8 wires.
+>Use an Atmega chip to count seconds between the starting pin and end pin. Uno or Mini,  Maybe Tiny85 for production.
+>9.999 is a failed attempt on the test track as well as race day.
+>IR detectors and emitters at the start and end will trigger the timer.  
+>Display the time after complete.
+>The timer will reset via the chip reset pin and an external button.
+>18650 batteries iside an external box for the controller.
+>CAT5 cable between the controller and the board because this can all be done with 8 wires.
 
 
-##Cost of goods in 2024:
+## Cost of goods in 2024:
 -   1/4"x2"  6' 6061 aluminum bar  $22
 -   1/8"x4"  6' 6061 aluminum plate  $22
 -   1x6 wood base 6' (finish pine or another wood that is reliably straight and flat)
@@ -56,7 +56,7 @@ CAT5 cable between the controller and the board because this can all be done wit
 -   Misc hookup wire or CAT5 stranded wire.  $0
 
 
-##Other things you might need or want to make this.
+## Other things you might need or want to make this.
 -   Soldering iron and solder
 -   Small hand tools
 -   Shrink wrap
