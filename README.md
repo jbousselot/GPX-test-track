@@ -1,4 +1,4 @@
-## GPX-test-track
+### GPX-test-track
 Grand Prix / Pinewood test track timer
 
 
@@ -13,6 +13,7 @@ The track can be adjusted to 1, 2, or 3 degree slope, changing the influence of 
 Trimming the injection molding tabs from the tires and polishing the axles or providing some camber to the alignment are
 advantages that contribute to faster track times, or builders can tune for the turtle award. (slowest)  
 See the Mark Rober video from April 6, 2014 titled "EASY Pinewood Derby Car WINS using Science!!!" 
+
 https://www.youtube.com/watch?v=-RjJtO51ykY
 
 7 Key Steps:
