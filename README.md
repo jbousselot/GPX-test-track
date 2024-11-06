@@ -44,13 +44,12 @@ The timer is to help builders reference what impact their changes make on car pe
 -   1/4"x2"  6' 6061 aluminum bar  $22  You will need to cut this down to 1-5/8" wide.  This can be done on a table saw.  Find someone who knows how or is willing to cut 1/4" aluminum.
 -   1/8"x4"  6' 6061 aluminum plate  $22
 -   1x6 wood base 6' (finish pine or another wood that is reliably straight and flat)
--   Arduino Uno r3 or Mini $15 to $3.  We want one with a 5v regulator so we can power it with batteries
+-   Arduino Uno r3 or Mini $15 to $3.  We want one with an onboard 5v regulator so we can power it with batteries
 -   2x 18650 batteries  $4 or $0 from a friend or you scrap them from other stuff like an e-scooter
 -   2x 18650 battery holder  $3  can use two singles or a double holder.  Connect the cells in series for 7v to 8v
 -   3d printer - ask a friend or go to the library.  The nicer the printer, the better it will look.
--   14 segment 4 character i2c backpack display with decimals.  These come in various colors, $12 for two.
--   2x 940nm Infrared LED emitters  
--   2x 940nm Infrared detectors  $7 for a pack of 30, 15 emitters, 15 detectors.
+-   14 segment 4 character i2c backpack display with decimals HT16K33.  These come in various colors, $12 for two.
+-   2x 940nm Infrared LED emitters  and 2x 940nm Infrared detectors  $7 for a pack of 30, 15 emitters, 15 detectors.
 -   2x 100 ohm resistors  (cheap, ask a friend)
 -   Rocker switch for power $1
 -   Momentary push button for reset $1
@@ -71,7 +70,8 @@ The timer is to help builders reference what impact their changes make on car pe
 -   Woodworking tools and wood finishes
 -   Some metalworking tools to fabricate the track surface
 -   Self tapping screws OR brass threaded inserts that press into 3d printed box
--   3d printer or a suitable project box
+-   3d printed or a suitable project box
+-   RJ45 crimps and keystone connector.  Put all the electronics in the box, only the optical sensors on the track.  
 
 September 2024 - first code development on UNO
 October 2024 - working code with i2c 14seg display. Deploy on a Nano because its tiny and has a 5v regulator.  
