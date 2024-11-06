@@ -16,7 +16,7 @@ See the Mark Rober video from April 6, 2014 titled "EASY Pinewood Derby Car WINS
 
 https://www.youtube.com/watch?v=-RjJtO51ykY
 
-7 Key Steps: (according to Mark)
+7 Key Steps: (according to Mark's video)
 1.  Max weight ~1" in front of rear axle
 2.  Reasonably aerodynamic
 3.  Ride on 3 wheels
@@ -70,7 +70,8 @@ The timer is to help builders reference what impact their changes make on car pe
 -   Pin headers for the arduino (or solder directly to the board)
 -   Woodworking tools and wood finishes
 -   Some metalworking tools to fabricate the track surface
--   Self tapping screws OR brass threaded inserts that press into plastic with heat
+-   Self tapping screws OR brass threaded inserts that press into 3d printed box
+-   3d printer or a suitable project box
 
 September 2024 - first code development on UNO
 October 2024 - working code with i2c 14seg display. Deploy on a Nano because its tiny and has a 5v regulator.  
