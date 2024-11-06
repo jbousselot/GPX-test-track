@@ -16,7 +16,7 @@ See the Mark Rober video from April 6, 2014 titled "EASY Pinewood Derby Car WINS
 
 https://www.youtube.com/watch?v=-RjJtO51ykY
 
-7 Key Steps:
+7 Key Steps: (according to Mark)
 1.  Max weight ~1" in front of rear axle
 2.  Reasonably aerodynamic
 3.  Ride on 3 wheels
@@ -31,17 +31,17 @@ For the low low price of $how_much_I_paid, you can provide a test segment easily
 The timer is to help builders reference what impact their changes make on car performance.  Adding LED to any project obviously makes it better.
 
 
->Use an Atmega chip to count seconds between the starting pin and end pin. Uno or Mini,  Maybe Tiny85 for production.
->9.999 is a failed attempt on the test track as well as race day.
->IR detectors and emitters at the start and end will trigger the timer.  
->Display the time after complete.
->The timer will reset via the chip reset pin and an external button.
->18650 batteries iside an external box for the controller.
->CAT5 cable between the controller and the board because this can all be done with 8 wires.
+> Use an Atmega chip to count seconds between the starting pin and end pin. Uno or Mini,  Maybe Tiny85 for production.
+> 9.999 is a failed attempt on the test track as well as race day.
+> IR detectors and emitters at the start and end will trigger the timer.  
+> Display the time after complete.
+> The timer will reset via the chip reset pin and an external button.
+> 18650 batteries inside an external box for the controller.
+> CAT5 cable between the controller and the board because this can all be done with 8 wires.
 
 
 ## Cost of goods in 2024:
--   1/4"x2"  6' 6061 aluminum bar  $22
+-   1/4"x2"  6' 6061 aluminum bar  $22  You will need to cut this down to 1-5/8" wide.  This can be done on a table saw.  Find someone who knows how or is willing to cut 1/4" aluminum.
 -   1/8"x4"  6' 6061 aluminum plate  $22
 -   1x6 wood base 6' (finish pine or another wood that is reliably straight and flat)
 -   Arduino Uno r3 or Mini $15 to $3.  We want one with a 5v regulator so we can power it with batteries
